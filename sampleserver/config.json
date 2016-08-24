@@ -1,0 +1,7 @@
+{
+  "server_dir": "/home/build/servers/sampleserver/",
+  "jar": "spigot.jar",
+  "mem_min": 512,
+  "mem_max": 8192,
+  "copy_plugins": true
+}
